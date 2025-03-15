@@ -12,6 +12,8 @@ This project implements a multiple linear regression model to predict house pric
 - **Target**: Price (in dollars)
 - **Tools**: Python, scikit-learn, pandas, numpy, matplotlib
 
+![alt text](image.png)
+![alt text](image-1.png)
 ## Prerequisites
 
 To run this project, you'll need the following installed:
@@ -76,7 +78,7 @@ Intercept of the regression line
 Predicted prices for the test houses
 
 ## Visualizations
-[To be added separately]
+![alt text](image-2.png)
 
 ## Contributing
 
