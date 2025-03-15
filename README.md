@@ -29,7 +29,7 @@ How to Run
 
 1. Clone the Repository:
 
-git clone https://github.com/ibryam/your-repo-name.git
+git clone https://github.com/ibryam/house-price-prediction.
 cd your-repo-name
 
 2. Ensure Data Availability:
@@ -81,13 +81,4 @@ Visualizations
 Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests with improvements.
-
-
-### Notes
-- **Placeholders**: Replace `your-username` and `your-repo-name` with your actual GitHub username and repository name.
-- **Customization**: I assumed a file name (`house_price_prediction.py`) for the script—adjust it to match your actual file name.
-- **License**: I included a reference to an MIT License, but you can change it or remove it if you haven't added a `LICENSE` file yet.
-- **Visualizations**: Left a placeholder section for you to add your visualization details later.
-
-This README provides a professional overview for your GitHub repository, making it easy for visitors from your GitHub.io page to understand and use your project. Let me know if you'd like any adjustments!
 
