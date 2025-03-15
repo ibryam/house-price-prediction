@@ -25,7 +25,7 @@ housepricesdataset.csv: Training dataset containing house features and prices.
 house_price_prediction.py: Main Python script with the regression model and predictions.
 README.md: This file.
 
-How to Run
+## How to Run
 
 1. Clone the Repository:
 
@@ -47,7 +47,7 @@ python main.py
 - Model coefficients and intercept
 - Predictions for test data
 
-Model Details
+## Model Details
 
 Algorithm: Multiple Linear Regression from scikit-learn
 Training Data: Loaded from housepricesdataset.csv
@@ -55,7 +55,7 @@ Test Data: Three sample houses with predefined attributes:
 House 1: 230 sq ft, 4 rooms, 10 years old
 House 2: 230 sq ft, 6 rooms, 0 years old
 
-Usage
+## Usage
 
 The script:
 
@@ -67,7 +67,7 @@ Displays results in a DataFrame
 House 3: 355 sq ft, 3 rooms, 20 years old
 
 
-Results
+## Results
 
 The output includes:
 
@@ -75,10 +75,10 @@ Coefficients showing the impact of each feature on price
 Intercept of the regression line
 Predicted prices for the test houses
 
-Visualizations
+## Visualizations
 [To be added separately]
 
-Contributing
+## Contributing
 
 Feel free to fork this repository, submit issues, or create pull requests with improvements.
 
